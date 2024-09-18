@@ -1,5 +1,5 @@
 
-# App-ApiGifApp 1.0.2
+# App-ApiGifApp 1.0.3
 
 Aplicación construida en React, la cual consume un servicio de Api de la plataforma "GIPHY Developers"
 
